@@ -1,5 +1,5 @@
 
-![Balthazar](https://flamingtext.com/Name-Logos/Balthazar/)
+![Balthazar](https://github.com/Myst82015/Balthazar/blob/master/assets/balthazar.png)
 
 
 # Balthazar
