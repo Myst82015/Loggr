@@ -1,5 +1,5 @@
 
-![Balthazar](https://postimg.cc/PNh88Ptx)
+![Balthazar](https://github.com/Myst82015/Balthazar/blob/master/assets/loggr.png)
 
 
 # Balthazar
